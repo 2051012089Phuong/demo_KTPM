@@ -13,4 +13,6 @@ void func() {
     cout<<"abcdef";
     cout<<"ggggggggggg";
     cout<<"sjhgehieu";
+    cout<<"nguyen van teo";
+    cout<<"nguyen van ty";
 }
