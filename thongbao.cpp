@@ -11,4 +11,5 @@ int main() {
 void func() {
     cout << "Main";
     cout<<"abcdef";
+    cout<<"ggggggggggg";
 }
