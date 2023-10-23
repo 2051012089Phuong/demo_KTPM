@@ -12,4 +12,5 @@ void func() {
     cout << "Main";
     cout<<"abcdef";
     cout<<"ggggggggggg";
+    cout<<"sjhgehieu";
 }
